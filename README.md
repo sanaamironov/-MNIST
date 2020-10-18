@@ -6,3 +6,4 @@ The goal of this tutoral is to expose you to TensorBoard which could be used to 
 
 MNIST is a simple computer vision dataset.  It consists of images of handwritten digits like these:
 
+![alt_text](https://github.com/sanaamironov/-MNIST/blob/main/Screen%20Shot%202020-10-18%20at%206.55.25%20PM.png)
